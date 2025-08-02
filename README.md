@@ -1,4 +1,4 @@
-### Dry Bean Classification System using ML 
+### Dry Bean Classification System using Machine Learning
 ### Overview
 This project presents a machine learning-based solution for the automated classification of dry bean types based on shape-related morphological features. 
 Traditional manual sorting is labor-intensive and error-prone — this system offers an efficient, accurate, and scalable alternative using supervised learning.
@@ -44,7 +44,7 @@ Per-class accuracy scores
 Visual assessment of misclassifications and overall balance.
 
 ----
-### 🏆 Results Summary
+###  Results Summary
 Top Features: Solidity, ShapeFactor1, ShapeFactor4, Eccentricity
 Best Model: Logistic Regression
 Highest accuracy
