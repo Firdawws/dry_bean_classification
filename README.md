@@ -74,9 +74,11 @@ Visualization: Matplotlib, Seaborn
 Development Environment: Jupyter Notebook
 
 Deployment: Streamlit for building the user interface
+
 ----
 
 ### The project folder
+
 ```bash
 dry_bean_classification/
 │
@@ -91,7 +93,6 @@ dry_bean_classification/
 ├── wine_model.keras
 ├── requirements.txt
 └── README.md
----
 
 
 
