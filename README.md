@@ -74,7 +74,24 @@ Visualization: Matplotlib, Seaborn
 Development Environment: Jupyter Notebook
 
 Deployment: Streamlit for building the user interface
+----
 
+### The project folder
+```bash
+dry_bean_classification/
+│
+├── notebook/
+│   └── dry_bean_classification.ipynb
+│
+├── data/
+│   └── Dry_Bean_Dataset.csv
+│
+├── app.py
+├── scaler.pkl
+├── wine_model.keras
+├── requirements.txt
+└── README.md
+---
 
 
 
